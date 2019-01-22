@@ -1,3 +1,1 @@
----
-permalink: /Test.html
----
+Plot the dots
