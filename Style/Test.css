@@ -1,0 +1,18 @@
+canvas{
+	margin-top: 10%;
+	border-radius: 15px ;
+	border: 1px solid #000000;
+	height: 350px;
+	width: 500px;
+	overflow: auto;
+}
+
+#canvasContainer{
+	position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+	text-align: center;
+}
