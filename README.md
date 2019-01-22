@@ -1,1 +1,1 @@
-Plot the dots
+permalink:/Index.html
