@@ -1,6 +1,6 @@
 var mode = 2;
-var divisions = "0|1|2|3|4|5|6|7|8|9|10|11|12|13|14";
-var answerDots = "6|2|3|5|2|5|0|0|2|10|7|4|1|3|4";
+var divisions = "0|1|2|3|4|5|6|7|8|9|10|11|12";
+var answerDots = "6|2|3|5|2|5|0|0|2|10|7|4|1";
 var axisName = "Minutes to eat breakfast";
 
 $(document).ready(function(){
